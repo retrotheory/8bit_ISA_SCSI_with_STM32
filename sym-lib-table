@@ -1,0 +1,3 @@
+(sym_lib_table
+  (lib (name isascsi-rescue)(type Legacy)(uri ${KIPRJMOD}/isascsi-rescue.lib)(options "")(descr ""))
+)
